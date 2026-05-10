@@ -43,10 +43,6 @@ recycling_data.csv
 Dashboard screenshots
 📷 Dashboard Preview
 
-(Add your dashboard screenshot here after uploading to GitHub)
-
-Example:
-
 ![Dashboard Preview](dashboard.png)
 👤 Author
 
